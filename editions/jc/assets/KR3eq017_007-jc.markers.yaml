@@ -1439,6 +1439,7 @@ markers:
   - {type: 'tls:seg-end', offset: 3713, content: '', id: KR3eq017_jc_007-d9.d5.d3.p4s55_end, seg_type: comm}
   - {type: 'tls:seg', offset: 3713, content: '', id: KR3eq017_jc_007-d9.d5.d3.p4s56}
   - {type: punctuation, offset: 3721, content: (, id: KR3eq017_jc_007-bkkpn742}
+  - {type: voice, offset: 3721, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3723, content: ), id: KR3eq017_jc_007-bkkpn743}
   - {type: punctuation, offset: 3723, content: ，, id: KR3eq017_jc_007-bkkpn744}
   - {type: 'tls:seg', offset: 3723, content: '', id: KR3eq017_jc_007-d9.d5.d3.p4s57}
@@ -1695,6 +1696,7 @@ markers:
   - {type: punctuation, offset: 4286, content: ，, id: KR3eq017_jc_007-bkkpn863}
   - {type: 'tls:seg', offset: 4286, content: '', id: KR3eq017_jc_007-d9.d5.d3.p6s21}
   - {type: punctuation, offset: 4291, content: (, id: KR3eq017_jc_007-bkkpn864}
+  - {type: voice, offset: 4291, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4293, content: ), id: KR3eq017_jc_007-bkkpn865}
   - {type: punctuation, offset: 4293, content: ，, id: KR3eq017_jc_007-bkkpn866}
   - {type: 'tls:seg', offset: 4293, content: '', id: KR3eq017_jc_007-d9.d5.d3.p6s22}
@@ -2153,6 +2155,7 @@ markers:
   - {type: punctuation, offset: 5358, content: ，, id: KR3eq017_jc_007-bkkpn1075}
   - {type: 'tls:seg', offset: 5358, content: '', id: KR3eq017_jc_007-d9.d5.d3.p12s28}
   - {type: punctuation, offset: 5358, content: (, id: KR3eq017_jc_007-bkkpn1076}
+  - {type: voice, offset: 5358, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 5360, content: ), id: KR3eq017_jc_007-bkkpn1077}
   - {type: punctuation, offset: 5360, content: ，, id: KR3eq017_jc_007-bkkpn1078}
   - {type: 'tls:seg', offset: 5360, content: '', id: KR3eq017_jc_007-d9.d5.d3.p12s29}
@@ -2259,4 +2262,4 @@ markers:
   - {type: punctuation, offset: 5610, content: 。, id: KR3eq017_jc_007-bkkpn1126}
   - {type: xml-element, offset: 5610, content: '', id: KR3eq017_jc_007-d9.d5.d3p12_end, name: p, role: close, attrs: {'xml:id': KR3eq017_jc_007-d9.d5.d3p12}}
   back: []
-hash: sha256:8f94e852b9b8366b808cd159a5a0b7aa6b5e6bd1c0c991da3ec5040227425b75
+hash: sha256:654e5620c7afaaf76ed4f6d513dff554e64ab747b09bd46fd26a44424d917aa8
