@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq017_000-jc.yaml, hash: 'sha256:f54955fed21bd7ae2aae1b4f9a5b42e620f6c5a1c13e4b873c3a70466107bbac'}
+  - {seq: 0, filename: KR3eq017_000-jc.yaml, hash: 'sha256:fac3be2f626b9b18ea565e813d6be668f7ca7aac8b8c39f3f1d7f13da1a3fb0e'}
   - {seq: 1, filename: KR3eq017_001-jc.yaml, hash: 'sha256:16baf73f0341b477aa2e7d137e7cd2a47853f4f464c7ac2be1856832c32705f2'}
   - {seq: 2, filename: KR3eq017_002-jc.yaml, hash: 'sha256:ff5e0285024fbf23c88ff7ee95d6f59e642169fe0090d2c20097bbc373ece1c8'}
   - {seq: 3, filename: KR3eq017_003-jc.yaml, hash: 'sha256:405f92044eb05ee995fd26f7efd9bd97679a17a1ddfcc941ee24e1e01abbea5d'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 10, filename: KR3eq017_010-jc.yaml, hash: 'sha256:40704e2294518ebba0a57bc98a32efce054f1fec41c1263629dcae52dcd4eb27'}
   - {seq: 11, filename: KR3eq017_011-jc.yaml, hash: 'sha256:cfc4d29eedddcc84f5799ae81c1d2f8cf4104ddd6796b42436383bf17667c428'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq017_000-jc.markers.yaml, hash: 'sha256:ae521304a24096f676438acfd4c81375e8a0b849677db26193279888d0358932'}
+  - {seq: 0, role: markers, filename: assets/KR3eq017_000-jc.markers.yaml, hash: 'sha256:1301a9d23eec6575a63462d83e1ede94819061e4439b539920b45da9c36a74c1'}
   - {seq: 1, role: markers, filename: assets/KR3eq017_001-jc.markers.yaml, hash: 'sha256:9078e619126c082076e254039fa71b103a9483e4c27227f4141be6023811e49d'}
   - {seq: 2, role: markers, filename: assets/KR3eq017_002-jc.markers.yaml, hash: 'sha256:3f689b542db5a51ab22d6015131ac4eb96a20c505b06e3f637cdee72e7163049'}
   - {seq: 3, role: markers, filename: assets/KR3eq017_003-jc.markers.yaml, hash: 'sha256:916354511c32ce07138216e6e754d224a092429cea20bd7c98718697b003a32c'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq017_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 455
   label: 自序
@@ -1643,4 +1643,4 @@ table_of_contents:
   label: 三百九十七法考
   type: section
   level: 3
-hash: sha256:fdbe93f65f47702f4e849fdd58ce3ce53a723621174bbadd7db4cac46e961412
+hash: sha256:cdbd35f22b6a25b68cab9552b17d44f428e7dd45e5d4e34b9edb66a0c7bb5e94
